@@ -17,7 +17,7 @@ const CONFIG = {
 
   // 特性介绍
   LANDING_FEATURES_HEADER_1: '探索的过程',
-  LANDING_FEATURES_HEADER_1_P: "如何破解小天才D3？<br/>可在这发送邮件给<strong class='font-bold  text-yellow-500'>gtjbak@outlook.com</strong>"请求远程破解,
+  LANDING_FEATURES_HEADER_1_P: "如何破解小天才D3？<br/>可在这发送邮件给<strong class='font-bold  text-yellow-500'>gtjbak@outlook.com</strong>"请求远程破解",
   LANDING_FEATURES_CARD_1_TITLE: '简单快速',
   LANDING_FEATURES_CARD_1_P: '远程操控电脑(Windows7以上系统的电脑)',
   LANDING_FEATURES_CARD_2_TITLE: '高效',
