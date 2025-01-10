@@ -115,7 +115,7 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '欢迎关注、三连投喂',
+  HEO_SOCIAL_CARD_TITLE_1: '欢迎关注、三连',
   HEO_SOCIAL_CARD_TITLE_2: '求求了！',
   HEO_SOCIAL_CARD_TITLE_3: '点击跳转B站个人主页',
   HEO_SOCIAL_CARD_URL: 'https://space.bilibili.com/168058198',
