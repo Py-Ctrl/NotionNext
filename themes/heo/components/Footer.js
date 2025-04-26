@@ -1,6 +1,5 @@
 import { BeiAnGongAn } from '@/components/BeiAnGongAn'
 import CopyRightDate from '@/components/CopyRightDate'
-import PoweredBy from '@/components/PoweredBy'
 import { siteConfig } from '@/lib/config'
 import SocialButton from './SocialButton'
 /**
