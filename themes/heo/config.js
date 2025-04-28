@@ -50,6 +50,8 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
+  HEO_INFO_CARD_URL2: 'https://space.bilibili.com/168058198',
+  HEO_INFO_CARD_ICON2: 'fab fa-bilibili',
   HEO_INFO_CARD_URL3: 'https://www.msgzs.cloudns.org/',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
