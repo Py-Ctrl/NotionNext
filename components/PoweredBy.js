@@ -7,7 +7,7 @@ import { siteConfig } from '@/lib/config'
 export default function PoweredBy(props) {
   return (
     <div className={`inline text-sm font-serif ${props.className || ''}`}>
-      {"You are hard-working."}
+      {"这个网站的诞生离不开NotionNext开源项目"}
     </div>
   )
 }
