@@ -50,7 +50,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://space.bilibili.com/168058198',
   HEO_INFO_CARD_ICON2: 'fab fa-bilibili',
-  HEO_INFO_CARD_URL3: 'admin@zpd.dpdns.org',
+  HEO_INFO_CARD_URL3: 'help',
   HEO_INFO_CARD_TEXT3: '需要帮助',
 
   // 用户技能图标
