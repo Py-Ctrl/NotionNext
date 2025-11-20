@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://msgzs.cloudns.org' },
-    { title: 'ChatGPT 4o-mini站点', url: 'https://docs.tangly1024.com/' }
+    { title: '欢迎来到我的博客', url: 'https://msgzs.dpdns.org' },
+    { title: 'ChatGPT 4o-mini站点', url: 'https://chatgpt.msgzs.dpdns.org' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'MSGZS.CLOUDNS.ORG',
   HEO_HERO_TITLE_4: 'GPT 4o Mini镜像站',
   HEO_HERO_TITLE_5: '帮你在国内使用GPT',
-  HEO_HERO_TITLE_LINK: 'https://chatgpt.msgzs.cloudns.org',
+  HEO_HERO_TITLE_LINK: 'https://chatgpt.msgzs.dpdns.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
