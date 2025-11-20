@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享软件',
   HEO_HERO_TITLE_2: '与其他东西',
-  HEO_HERO_TITLE_3: 'MSGZS.CLOUDNS.ORG',
+  HEO_HERO_TITLE_3: 'MSGZS.DPDNS.ORG',
   HEO_HERO_TITLE_4: 'GPT 4o Mini镜像站',
   HEO_HERO_TITLE_5: '帮你在国内使用GPT',
   HEO_HERO_TITLE_LINK: 'https://chatgpt.msgzs.dpdns.org',
